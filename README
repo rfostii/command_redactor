@@ -1,0 +1,5 @@
+to start app run next commands
+
+1)npm install
+2) npm start 
+3) gulp dev

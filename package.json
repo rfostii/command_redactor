@@ -1,0 +1,24 @@
+{
+  "name": "command_redactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "~1",
+    "browserchannel": "^2.0.0",
+    "ecstatic": "~0.4.10",
+    "ejs": "~2.2.3",
+    "express": "~3.19.1",
+    "node-static": "~0.7.6",
+    "share": "^0.6.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
